@@ -1,15 +1,15 @@
 {
-  "name": "web-dev-junkie",
+  "name": "github-actions-overview",
   "version": "1.0.0",
   "description": "",
   "main": "math.js",
   "scripts": {
-    "test": "jest"
+    "test": "jest --coverage"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "dependencies": {
-    "jest": "^29.0.3"
+  "devDependencies": {
+    "jest": "^29.7.0"
   }
 }
